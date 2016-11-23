@@ -1,3 +1,5 @@
 File 1 content
 
 File 1 content 2nd line
+
+File 1 content 3rd line
